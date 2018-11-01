@@ -1,0 +1,28 @@
+
+
+
+$navbar-dark-color:                 rgba(white, .75);
+$navbar-dark-hover-color:           rgba(white, .5);
+$navbar-dark-active-color:          (white,.9);
+
+
+$carousel-control-color:            green;
+$carousel-control-width:            15%;
+$carousel-control-icon-width:       30px ;
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
+
+$carousel-control-color:            $white !default;
+$carousel-control-width:            15% !default;
+$carousel-control-opacity:          .5 !default;
+
+$carousel-indicator-width:          30px !default;
+$carousel-indicator-height:         3px !default;
+$carousel-indicator-spacer:         3px !default;
+$carousel-indicator-active-bg:      $white !default;
+
+$carousel-caption-width:            70% !default;
+$carousel-caption-color:            $white !default;
+
+$carousel-control-icon-width:       20px !default;
